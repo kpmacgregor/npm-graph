@@ -1,0 +1,9 @@
+{
+	"name": "adf-npm-graph",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b05e1666-dd1f-4206-919f-052fa82cc6ae",
+		"tenantId": "86a86728-2817-44cd-bf8a-0bccf3653486"
+	}
+}
